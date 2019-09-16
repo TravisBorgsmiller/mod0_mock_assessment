@@ -32,4 +32,4 @@ Methods:
 calculatePercentFull: 1%
 changeColor: "yellow"
 motorPresent: false
-changeName: "Sally"
+changeName: "Betsy"
