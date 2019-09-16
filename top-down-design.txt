@@ -1,0 +1,34 @@
+Doing Laundry
+
+1 Bring clothes into laundry room
+  1.1 Find all your clothes
+    1.1.1 check dirty hamper
+    1.1.2 check rest of house
+    1.1.2 check car
+2 Sort clothes
+  2.1 Make piles according to color
+  2.2 Make pile sizes proportion to load size
+    2.2.1 If a pile exceeds load size, start another pile of that color
+3 Load clothes into washer
+  3.1 Set washer settings
+  3.2 Put in soap
+    3.2.1 Measure out soap amount in cap
+  3.3 Put in fabric softener
+    3.3.1 Measure out fabric softener in cap
+  3.4 Put clothes in washer
+    3.4.1 Evenly distribute clothes in washer bowl
+    3.4.2 Close washer lid
+4 Wait for washer finish washing
+5 Switch clothes into dryer
+  5.1 Pull clothes out of washer
+  5.2 Put clothes into dryer
+  5.3 Put dryer sheet into dryer
+  5.4 Set dryer settings
+  5.5 Close dryer door
+  5.6 Press start
+6 Wait for dryer to finish drying
+7 Put clean clothes away
+  7.1 Take clothes out of dryer
+  7.2 Put clothes into laundry basket
+  7.3 Put clothes into matching sections according to type of item
+  7.4 Put away folded clothes
