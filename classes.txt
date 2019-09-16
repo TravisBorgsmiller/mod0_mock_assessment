@@ -2,7 +2,7 @@ Class: Boat
 
 Attributes:
 color (string)
-type (string)
+name (string)
 totalCapacity (integer)
 currentCapacity (integer)
 motor (boolean)
@@ -12,4 +12,4 @@ Methods:
 calculatePercentFull (divides currentCapacity by totalCapacity)
 changeColor (changes the color attribute)
 motorPresent (returns whether or not there is a motor)
-changeType (changes the type of boat attribute)
+changeName (changes the name attribute)

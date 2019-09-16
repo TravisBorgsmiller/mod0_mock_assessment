@@ -1,0 +1,35 @@
+Object: Sailboat
+
+Attributes:
+
+color: "white"
+name: "Naomi"
+totalCapacity: 100
+currentCapacity: 25
+motor: false
+material: "wood"
+
+Methods:
+
+calculatePercentFull: 25%
+changeColor: "blue"
+motorPresent: true
+changeName: "Connie"
+
+Object: Pontoon
+
+Attributes:
+
+color: "black"
+name: "Mandy"
+totalCapacity: 50
+currentCapacity: 2
+motor: false
+material: "metal"
+
+Methods:
+
+calculatePercentFull: 1%
+changeColor: "yellow"
+motorPresent: false
+changeName: "Sally"
